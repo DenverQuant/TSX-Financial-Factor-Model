@@ -16,7 +16,7 @@ This chart demonstrates that the TSX's correlation to the US Market is not const
 
 ### 2. Value at Risk (VaR) Distribution
 A histogram of weekly returns showing the "Left Tail" risk.
-![VaR Distribution](TSX_Financial_Analysis/Rplot0.pdf)
+![VaR Distribution](TSX_Financial_Analysis/var.png)
 
 ### 3. Efficient Frontier(Monte Carlo Simulation)
 By running a Monte Carlo simulation of 5,000 portfolios, I proved that holding the TSX alone is inefficient. A mixed portfolio delivers 30-40% less risk for the same return."
