@@ -12,15 +12,15 @@ This project analyzes the risk and return drivers of the **S&P/TSX Composite Ind
 
 ### 1. Rolling Beta (Time-Varying Risk)
 This chart demonstrates that the TSX's correlation to the US Market is not constant. Risk spiked significantly during the 2020 volatility.
-![Rolling Beta](Rolling_Beta.png)
+![Rolling Beta](TSX_Financial_Analysis/Rplot.png)
 
 ### 2. Value at Risk (VaR) Distribution
 A histogram of weekly returns showing the "Left Tail" risk.
-![VaR Distribution](VaR_Distribution.png)
+![VaR Distribution](TSX_Financial_Analysis/Rplot02.png)
 
 ### 3. Underwater Chart (Drawdown)
 Visualizing the magnitude and duration of market declines.
-![Drawdown](Drawdown_Chart.png)
+![Drawdown](TSX_Financial_Analysis/Rplot03.png)
 
 ## Technologies Used
 * **Language:** R
